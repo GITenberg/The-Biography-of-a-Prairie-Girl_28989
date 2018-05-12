@@ -1,0 +1,31 @@
+_repo: The-Biography-of-a-Prairie-Girl_28989
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gates, Eleanor
+    birthdate: 1875
+    deathdate: 1951
+    gutenberg_agent_id: '6218'
+    url: http://www.gutenberg.org/2009/agents/6218
+description: ''
+gutenberg_issued: '2009-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28989'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Farm life -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Family life -- Fiction'
+- !lcsh 'Great Plains -- Fiction'
+- !lcsh 'Frontier and pioneer life -- Dakota Territory -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Girls -- Fiction'
+title: The Biography of a Prairie Girl
+url: http://www.gutenberg.org/ebooks/28989
